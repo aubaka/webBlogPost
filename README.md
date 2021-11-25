@@ -12,6 +12,12 @@ The following pages are active. From the homepage you can navigate to any of the
 - Blog page
 - Design System
 
+<img width="734" alt="Screenshot 2021-11-25 at 11 27 34" src="https://user-images.githubusercontent.com/48029660/143434119-538f6aa7-36de-43ed-9298-c3cf81dc95c1.png">
+<img width="1440" alt="Screenshot 2021-11-25 at 11 27 46" src="https://user-images.githubusercontent.com/48029660/143434132-b3285946-0e01-4787-a73e-681979b773c4.png">
+<img width="729" alt="Screenshot 2021-11-25 at 11 28 05" src="https://user-images.githubusercontent.com/48029660/143434138-38a319f5-d378-485b-bd55-7a4e9896a072.png">
+<img width="1440" alt="Screenshot 2021-11-25 at 11 28 28" src="https://user-images.githubusercontent.com/48029660/143434139-b19f2bb9-bc0a-4793-a43b-4bd985de620f.png">
+<img width="252" alt="Screenshot 2021-11-25 at 11 28 36" src="https://user-images.githubusercontent.com/48029660/143434143-11684a7d-842a-40af-91b8-d9d5f985d810.png">
+<img width="647" alt="Screenshot 2021-11-25 at 11 28 55" src="https://user-images.githubusercontent.com/48029660/143434145-6956f959-8bee-4f77-99e0-0b468472662f.png">
 
 
 
