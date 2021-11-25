@@ -18,9 +18,7 @@ The following pages are active. From the homepage you can navigate to any of the
 References
 In addition to the Udacity course materials, I got helpful tips for creating this website from the following articles and resources:
 
-Becoming a CSS Grid Ninja!, Medium
-
-Colours helped my pick my color palette
+'Becoming a CSS Grid Ninja!', Medium Colours helped my pick my color palette
 
 Images
 All images on the site come from Pexels and are free to use without attribution.
